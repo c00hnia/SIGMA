@@ -1,0 +1,587 @@
+.desktop {
+  background-color: #26296e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #26296e;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+  width: 1440px;
+  height: 3176px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 4168px;
+  height: 3299px;
+  top: -401px;
+  left: -2366px;
+}
+
+.desktop .kolka {
+  position: absolute;
+  width: 4168px;
+  height: 2613px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1381px;
+  height: 1763px;
+  top: 1068px;
+  left: 2787px;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 0;
+  left: 702px;
+  background-color: #057979a1;
+  border-radius: 339.5px;
+  filter: blur(300px);
+}
+
+.desktop .img {
+  position: absolute;
+  width: 1019px;
+  height: 1279px;
+  top: 484px;
+  left: 0;
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 1303px;
+  left: 0;
+  background-color: #057979a1;
+  border-radius: 339.5px;
+  filter: blur(300px);
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 1934px;
+  left: 2040px;
+  background-color: #21a6005c;
+  border-radius: 339.5px;
+  filter: blur(300px);
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 875px;
+  left: 2027px;
+  background-color: #cc00934f;
+  border-radius: 339.5px;
+  filter: blur(300px);
+}
+
+.desktop .ellipse-5 {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 0;
+  left: 2632px;
+  background-color: #9046bdb2;
+  border-radius: 339.5px;
+  filter: blur(300px);
+}
+
+.desktop .frame {
+  position: absolute;
+  width: 1440px;
+  height: 798px;
+  top: 2501px;
+  left: 2366px;
+  overflow: hidden;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  width: 1517px;
+  height: 771px;
+  top: 27px;
+  left: -77px;
+  background-color: #ffffff;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 540px;
+  top: 90px;
+  left: 501px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #282a70;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 345px;
+  height: 457px;
+  top: 220px;
+  left: 264px;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 345px;
+  height: 457px;
+  top: 220px;
+  left: 624px;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 345px;
+  height: 457px;
+  top: 220px;
+  left: 984px;
+}
+
+.desktop .bezpieka {
+  position: absolute;
+  width: 1070px;
+  height: 456px;
+  top: 1977px;
+  left: 2553px;
+}
+
+.desktop .bezpieczny-styl-z {
+  position: absolute;
+  width: 534px;
+  height: 127px;
+  top: 180px;
+  left: -4px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 552px;
+  top: 41px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: 110px;
+  white-space: nowrap;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 457px;
+  height: 456px;
+  top: 0;
+  left: 609px;
+  object-fit: cover;
+}
+
+.desktop .hero {
+  position: absolute;
+  width: 1438px;
+  height: 524px;
+  top: 1453px;
+  left: 2368px;
+}
+
+.desktop .group-4 {
+  position: relative;
+  width: 1065px;
+  height: 420px;
+  top: 11px;
+  left: 186px;
+}
+
+.desktop .czaas {
+  position: absolute;
+  width: 555px;
+  height: 273px;
+  top: 36px;
+  left: 514px;
+}
+
+.desktop .oszczd-czas-na {
+  position: absolute;
+  width: 462px;
+  height: 127px;
+  top: 139px;
+  left: -3px;
+}
+
+.desktop .zyskaj-na-czasie {
+  position: absolute;
+  width: 551px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: 110px;
+  white-space: nowrap;
+}
+
+.desktop .ffeabc-b-ea {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .featured {
+  position: absolute;
+  width: 1468px;
+  height: 250px;
+  top: 1121px;
+  left: 2340px;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 1466px;
+  height: 250px;
+  background-color: #ffffff;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 169px;
+  height: 160px;
+  top: 13px;
+  left: 213px;
+}
+
+.desktop .techcrunch-logo {
+  position: absolute;
+  width: 169px;
+  height: 96px;
+  top: 64px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #282a70;
+  font-size: 27px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 110px;
+  white-space: nowrap;
+}
+
+.desktop .techcombank-logo {
+  position: absolute;
+  width: 183px;
+  height: 70px;
+  top: 90px;
+  left: 655px;
+  object-fit: cover;
+}
+
+.desktop .nvidia-logo {
+  position: absolute;
+  width: 95px;
+  height: 70px;
+  top: 90px;
+  left: 1184px;
+  object-fit: cover;
+}
+
+.desktop .meta-logo {
+  position: absolute;
+  width: 191px;
+  height: 113px;
+  top: 66px;
+  left: 908px;
+  object-fit: cover;
+}
+
+.desktop .intel-logo {
+  position: absolute;
+  width: 148px;
+  height: 60px;
+  top: 95px;
+  left: 450px;
+  object-fit: cover;
+}
+
+.desktop .hero-2 {
+  position: absolute;
+  width: 1067px;
+  height: 461px;
+  top: 566px;
+  left: 2554px;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 444px;
+  height: 434px;
+  top: 27px;
+  left: 621px;
+  object-fit: cover;
+}
+
+.desktop .poznaj-naszego {
+  position: absolute;
+  width: 551px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 80px;
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 1075px;
+  height: 113px;
+  top: 401px;
+  left: 2554px;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 75px;
+  height: 29px;
+  top: 28px;
+  left: 990px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 63px;
+  top: 0;
+  left: 12px;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .hairobot {
+  position: absolute;
+  width: 128px;
+  top: 28px;
+  left: 0;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .SKLEP {
+  position: absolute;
+  width: 55px;
+  top: 28px;
+  left: 903px;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .kontakt {
+  position: absolute;
+  width: 83px;
+  top: 28px;
+  left: 777px;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 55px;
+  top: 28px;
+  left: 679px;
+  font-family: "Outfit", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element-c {
+  position: absolute;
+  width: 153px;
+  height: 113px;
+  top: 0;
+  left: 455px;
+  object-fit: cover;
+}
+
+.desktop .button-default {
+  display: flex;
+  width: 276px;
+  height: 132px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 26px 80px;
+  position: absolute;
+  top: 895px;
+  left: 2554px;
+  background-color: #4c39bd;
+  border-radius: 29px;
+  overflow: hidden;
+}
+
+.desktop .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -16px;
+  margin-bottom: -14px;
+  margin-left: -51.5px;
+  margin-right: -51.5px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 110px;
+  white-space: nowrap;
+}
+
+.desktop .stopka {
+  position: absolute;
+  width: 1065px;
+  height: 174px;
+  top: 2959px;
+  left: 188px;
+}
+
+.desktop .frame-2 {
+  position: relative;
+  height: 174px;
+}
+
+.desktop .group-5 {
+  position: absolute;
+  width: 60px;
+  height: 102px;
+  top: 31px;
+  left: 129px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 82px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.desktop .group-6 {
+  position: absolute;
+  width: 108px;
+  height: 100px;
+  top: 31px;
+  left: 469px;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
